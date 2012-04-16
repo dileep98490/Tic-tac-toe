@@ -1,0 +1,11 @@
+Hi everyone, I am @dileep98490
+
+This is a tic-tac-toe program written in Python. The empty box is represented with '#'. The first player will use 'X' and the second player will use 'O'. Everytime the program is run, two bots play tic-tac-toe. 
+
+One question may linger your mind, since there is no true randomisation, even if the randomisation is included, the two bots play in the same way, everytime you run the program. But, here's the trick. I used current time, to effect the randomised decisions being taken.
+
+The program uses the static evaluation function (SEF)-> Number of lines, diagonals available for first player to complete the game - No. of lin... for second.....
+
+As is evident, the first player tried to maximise the SEF while the second player tries to minimise it.
+
+This program is done as part of our Artificial Intelligence Lab assignment in my current (8th) semester
