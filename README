@@ -6,6 +6,6 @@ One question may linger your mind, since there is no true randomisation, even if
 
 The program uses the static evaluation function (SEF)-> Number of lines, diagonals available for first player to complete the game - No. of lin... for second.....
 
-As is evident, the first player tried to maximise the SEF while the second player tries to minimise it.
+As is evident, the first player tries to maximise the SEF while the second player tries to minimise it.
 
 This program is done as part of our Artificial Intelligence Lab assignment in my current (8th) semester
